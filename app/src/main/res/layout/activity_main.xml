@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.doc_antony.sqjoke.MainActivity"
+    android:background="@drawable/wp">
+
+    <ImageButton
+        android:layout_width="640px"
+        android:layout_height="640px"
+        android:id="@+id/ib1"
+        android:clickable="true"
+        android:minHeight="600px"
+        android:minWidth="600px"
+        android:onClick="buttonClicked"
+        android:foregroundTint="#3f71cf"
+        android:backgroundTint="#efede9"
+        android:maxHeight="800px"
+        android:maxWidth="800px"
+        android:layout_marginBottom="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="500px"
+        android:layout_height="600px"
+        android:id="@+id/imageView"
+        android:background="@drawable/pa"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50px" />
+
+</RelativeLayout>
