@@ -1,5 +1,5 @@
 # SQJoke
-***SQJoke*** (aka ***Superquark**  Joke*) refers to the omonimous well-known italian TV programme about cultural divulgation.
+***SQJoke*** (aka _**Superquark** Joke_) refers to the omonimous well-known italian TV programme about cultural divulgation.
 
 It reproduces the solemn [Orchestral suites of Johann Sebastian Bach](https://en.wikipedia.org/wiki/Orchestral_suites_%28Bach%29|Orchestral suites of Johann Sebastian Bach), which introduces this TV programme.
 

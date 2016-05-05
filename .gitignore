@@ -1,8 +1,14 @@
+# Argh!
 *.iml
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
 /build
 /captures
+.idea/workspace.xml
+.idea/libraries
+
+# https://youtrack.jetbrains.com/oauth?state=%2Fissue%2FIDEA-55923
+.idea/gradle.xml
+
+# I don't want to see this shit
+.DS_Store
